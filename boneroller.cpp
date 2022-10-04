@@ -1,7 +1,7 @@
 // Boneroller
 // A dice rolling app by AJP
 //
-// v 1.0.0
+// v 1.0.1
 
 // Improvements needed:
 // Improve color scheme
